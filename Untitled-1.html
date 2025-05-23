@@ -1,0 +1,190 @@
+pproject-folder/
+│
+├── index.html
+├── styles.css
+└── images/
+    ├── burger.jpg
+    ├── pizza.jpg
+    └── fries.jpg
+roject-folder/
+│
+├── index.html
+├── styles.css
+└── images/
+    ├── burger.jpg
+    ├── pizza.jpg
+    └── fries.jpg
+    <!DOCTYPE html>
+    <html lang="ru">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>SmartFood</title>
+      <link rel="stylesheet" href="styles.css" />
+      <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    </head>
+    <body>
+      <header>
+        <div class="logo">SmartFood</div>
+        <nav>
+          <ul>
+            <li><a href="#">Главная</a></li>
+            <li><a href="#">Меню</a></li>
+            <li><a href="#">О нас</a></li>
+            <li><a href="#">Контакты</a></li>
+          </ul>
+        </nav>
+      </header>
+    
+      <main>
+        <section class="intro">
+          <h1>Быстрое питание, сделанное с любовью.</h1>
+        </section>
+    
+        <section class="menu">
+          <h2>Наше меню</h2>
+          <div class="card-container">
+            <div class="card">
+              <img src="images/burger.jpg" alt="Бургер" />
+              <h3>Бургер</h3>
+              <p>Цена: 250₽</p>
+              <button>Подробнее</button>
+            </div>
+            <div class="card">
+              <img src="images/pizza.jpg" alt="Пицца" />
+              <h3>Пицца</h3>
+              <p>Цена: 450₽</p>
+              <button>Подробнее</button>
+            </div>
+            <div class="card">
+              <img src="images/fries.jpg" alt="Картофель фри" />
+              <h3>Картофель фри</h3>
+              <p>Цена: 150₽</p>
+              <button>Подробнее</button>
+            </div>
+          </div>
+        </section>
+      </main>
+    
+      <footer>
+        <div class="contacts">
+          <p>Email: info@smartfood.ru</p>
+          <p>Телефон: +7 (900) 123-45-67</p>
+          <p>Соцсети: @smartfood</p>
+        </div>
+      </footer>
+    </body>
+    </html>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fffaf0;
+      color: #333;
+    }
+    
+    header {
+      background-color: #ffcc00;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px;
+    }
+    
+    .logo {
+      font-size: 1.8rem;
+      font-weight: bold;
+    }
+    
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+    }
+    
+    nav a {
+      text-decoration: none;
+      color: #c62828;
+      font-weight: 500;
+      transition: color 0.3s;
+    }
+    
+    nav a:hover {
+      color: #ff5722;
+    }
+    
+    .intro {
+      text-align: center;
+      padding: 40px 20px;
+      background-color: #fff3e0;
+    }
+    
+    .menu {
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .card-container {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    
+    .card {
+      border: 1px solid #ffc107;
+      border-radius: 10px;
+      width: 250px;
+      padding: 15px;
+      background-color: #fff8e1;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+    
+    .card:hover {
+      transform: scale(1.03);
+    }
+    
+    .card img {
+      width: 100%;
+      border-radius: 10px;
+    }
+    
+    .card button {
+      background-color: #ff5722;
+      color: white;
+      border: none;
+      padding: 10px;
+      width: 100%;
+      border-radius: 5px;
+      margin-top: 10px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    
+    .card button:hover {
+      background-color: #e64a19;
+    }
+    
+    footer {
+      background-color: #ffcc00;
+      padding: 20px;
+      text-align: center;
+    }
+    @media (max-width: 768px) {
+      .card-container {
+        flex-direction: column;
+        align-items: center;
+      }
+    
+      nav ul {
+        flex-direction: column;
+        gap: 10px;
+      }
+    
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+            

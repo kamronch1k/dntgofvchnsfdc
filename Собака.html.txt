@@ -1,0 +1,18 @@
+<BODY bgcolor="#9900CC" text="#CCCCCC">
+    <font size=6>
+    <br>
+    <hr size=5>
+    <br>
+    <img src="1.BMP" align=left width=200 height=200 hspace=20 vspace=20>
+    Байкал
+    <br>
+    <img src="104.BMP" align=left width=200 height=200 hspace=20 vspace=20>
+    Тузик
+    <br>
+    <img src="11.BMP" align=left width=200 height=200 hspace=20 vspace=20>
+    Шарик
+    <br clear=all>
+    <hr size=5>
+    <font>
+</BODY>
+</HTML>

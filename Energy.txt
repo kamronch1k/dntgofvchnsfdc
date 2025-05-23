@@ -1,0 +1,269 @@
+
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+	<script type="text/javascript">
+			</script>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Home</title>
+	<base href="https://kamronabrorov.free.site.pro/" />
+	<link rel="canonical" href="https://kamronabrorov.free.site.pro/" />	
+	
+						<meta name="viewport" content="width=device-width, initial-scale=1" />
+					<meta name="description" content="Uy" />
+			<meta name="keywords" content="Uy" />
+			
+	<!-- Facebook Open Graph -->
+		<meta property="og:title" content="Home" />
+			<meta property="og:description" content="Uy" />
+			<meta property="og:image" content="" />
+			<meta property="og:type" content="article" />
+			<meta property="og:url" content="https://kamronabrorov.free.site.pro/" />
+		<!-- Facebook Open Graph end -->
+
+		<meta name="generator" content="Site.pro Website builder" />
+			<script src="js/common-bundle.js?ts=20250417072044" type="text/javascript"></script>
+	<script src="js/a188dd98b81a00c9e8c8f6ad0daafe83-bundle.js?ts=20250417072044" type="text/javascript"></script>
+	<link href="css/common-bundle.css?ts=20250417072044" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&amp;subset=latin" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin" rel="stylesheet" type="text/css" />
+	<link href="css/a188dd98b81a00c9e8c8f6ad0daafe83-bundle.css?ts=20250417072044" rel="stylesheet" type="text/css" id="wb-page-stylesheet" />
+	
+	<script type="text/javascript">
+	window.useTrailingSlashes = true;
+	window.disableRightClick = false;
+	window.currLang = 'uz';
+</script>
+		
+	<!--[if lt IE 9]>
+	<script src="js/html5shiv.min.js"></script>
+	<![endif]-->
+
+		<script type="text/javascript">
+		$(function () {
+});    </script>
+</head>
+
+
+<body class="site site-lang-uz " ><div id="wb_root" class="root wb-layout-vertical"><style type="text/css">
+.da418f3d2-close {
+	position: absolute;
+	display: block;
+	right: 30px;
+	font-size: 25px;
+	cursor: pointer;
+}
+.da418f3d2-close::before {
+	content: '×';
+}
+.da418f3d2-top {
+	z-index: 99999;
+	position: relative;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	background-color: #fff;
+	padding: 15px;
+	border: 2px solid #000;
+	font-size: 14px;
+	color: #333;
+}
+.da418f3d2-top .da418f3d2-close {
+	color: #333;
+}
+.da418f3d2-top-logo {
+	text-decoration: none;
+	font-weight: normal;
+}
+.da418f3d2-top-logo img {
+	height: 24px;
+	margin-top: -4px;
+}
+.da418f3d2-top-text {
+	margin: 5px 35px;
+	text-align: center;
+}
+.da418f3d2-bottom {
+	z-index: 99999;
+	position: relative;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: stretch;
+	text-align: center;
+	padding: 12px 15px;
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #D7BA8E;
+}
+.da418f3d2-bottom .da418f3d2-close {
+	top: 14px;
+	color: #FFFFFF;
+}
+.da418f3d2-bottom hr {
+	display: block;
+	font-size: 1px;
+	line-height: 1px;
+	overflow: hidden;
+	padding: 0;
+	margin: 16px 16px 12px;
+	border-top: 1px solid #FFFFFF;
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 0;
+}
+.da418f3d2-bottom-text-a,
+.da418f3d2-bottom-text-b {
+	padding: 3px 0;
+	text-align: center;
+}
+.da418f3d2-bottom-text-a {
+	padding-left: 36px;
+	padding-right: 36px;
+}
+.da418f3d2-bottom-text-a hr {
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+.da418f3d2-bottom-text-a a,
+.da418f3d2-bottom-text-a a:hover,
+.da418f3d2-bottom-text-a a:active,
+.da418f3d2-bottom-text-a a:visited,
+.da418f3d2-bottom-text-b a,
+.da418f3d2-bottom-text-b a:hover,
+.da418f3d2-bottom-text-b a:active,
+.da418f3d2-bottom-text-b a:visited {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+</style>
+<script type="text/javascript">
+	window.addEventListener("DOMContentLoaded", function() {
+		var top = $(".da418f3d2-top");
+		var bottom = $(".da418f3d2-bottom");
+		if (bottom.length > 0) {
+			var topElem = top.parent();
+			if (topElem.length) {
+				topElem.append(bottom);
+				bottom[0].style.display = '';
+			}
+			else if (document.body) {
+				document.body.appendChild(bottom[0]);
+				bottom[0].style.display = '';
+			}
+
+			var wbHeaderBar = $('.wb-header-bar');
+			if (wbHeaderBar.length > 0) {
+				top.insertAfter(wbHeaderBar);
+			}
+		}
+	});
+</script>
+<div class="da418f3d2-top">
+	<a class="da418f3d2-top-logo" href="https://site.pro/uz/?utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=logo" target="_blank"
+		title="Professional Veb-Sayt Tuzuvchisi">
+		<img src="https://site.pro/assets/img/sitepro-logo-black.svg" alt="Site.pro"/>
+	</a>
+	<div class="da418f3d2-top-text">Veb-sayt Site.pro veb-sayt quruvchisi bilan yaratilgan</div>
+	<a class="btn btn-success" href="https://site.pro/uz/?utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=create" target="_blank" title="Yangi Veb-sayt Yaratish">Yangi Veb-sayt Yaratish</a>	<a class="da418f3d2-close" href="https://site.pro/uz/Narxlar/?utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=close" target="_blank"
+		title="Agar ushbu veb-sayt egasi bo&#039;lsangiz– iltimos  reklamalarini olib tashlash uchun yangilash"></a>
+</div>
+<div class="da418f3d2-bottom" style="display: none;">
+	<div class="da418f3d2-bottom-text-a"><b>Veb-sayt Site.pro veb-sayt quruvchisi bilan yaratilgan</b><br/><a href="https://site.pro/FAQ/Account-Billing/How-to-remove-ads-from-my-website/" target="_blank" title="Reklamalarni qanday olib tashlash mumkin?">Reklamalarni qanday olib tashlash mumkin?</a><hr/></div>
+	<div class="da418f3d2-bottom-text-b"><a href="https://site.pro/uz/Veb-sayt-yaratuvchisi/?utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=builder" target="_blank" title="Professional Veb-Sayt Tuzuvchisi">Professional Veb-Sayt Tuzuvchisi</a>. <a href="https://site.pro/uz/Oq-yorliq/?utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=white" target="_blank" title="Oq yorliqli veb-sayt yaratuvchisi">Oq yorliqli veb-sayt yaratuvchisi</a>. <a href="https://site.pro/uz/Websayt-importi/?utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=import" target="_blank" title="Websayt  importi">Websayt  importi</a></div>
+	<a class="da418f3d2-close" href="https://site.pro/uz/Narxlar/?utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=close" target="_blank"
+		title="Agar ushbu veb-sayt egasi bo&#039;lsangiz– iltimos  reklamalarini olib tashlash uchun yangilash"></a>
+</div>
+<style>
+.wb-header-bar {
+	z-index: 99999;
+	position: relative;
+	overflow: hidden;
+	background-color: #000;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	height: 60px;
+	border-bottom: 1px solid #fff;
+}
+
+.wb-editbutton {
+	background: #61b9ff;
+	border: 1px solid #61b9ff;
+	color: #fff;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+	-moz-box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+	cursor: pointer;
+	display: inline-block;
+	font-size: 18px;
+	line-height: 20px;
+	padding: 12px 24px;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+.wb-editbutton:hover {
+	background: #2196f3;
+	border: 1px solid #2196f3;
+	color: #fff;
+}
+.wb-editbutton:focus {
+	background: #61b9ff;
+	border: 1px solid #2196f3;
+	color: #fff;
+}
+.wb-editbutton {
+	border-radius: 0;
+	padding: 0 24px;
+	line-height: 60px;
+}
+</style>
+<div class="wb-header-bar">
+	<a href="https://site.pro/uz/My-Websites/open-builder/kamronabrorov.free.site.pro?from_website=2" target="_blank" class="wb-editbutton">
+		Veb-saytni tahrirlash	</a>
+</div>
+	<div class="wb_sbg"></div><div id="wb_header_a188dd98b81a00c9e8c8f6ad0daafe83" class="wb_element wb-sticky wb-layout-element" data-plugin="LayoutElement" data-h-align="center" data-v-align="top"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a73512bd09dd8ff1364d2d" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a736e01a07523e6d3bb5ed" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a73710b375eebcf32a3ad1" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap" style="height: 100%"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><a href="https://kamronabrorov.free.site.pro/"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="auto" viewBox="0 0 1793.982 1793.982" style="direction: ltr; color:#efad35"><text x="385.501415" y="1537.02" font-size="1792" fill="currentColor" style='font-family: "FontAwesome"'></text></svg></a></div></div></div><div id="a188dd98a2a738630454b52aac16b7f3" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h4 class="wb-stl-pagetitle"><a href=""><span style="color:rgba(239,173,53,1);">Энергия Флеша</span></a></h4></div></div></div><div id="a18b61c2b15b0018388b437dece967d2" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a73974dd31b1a326a96e69" class="wb_element wb-menu wb-prevent-layout-click wb-menu-mobile" data-plugin="Menu"><a class="btn btn-default btn-collapser"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a><ul class="hmenu" dir="ltr"><li class="wb_this_page_menu_item active"><a href="https://kamronabrorov.free.site.pro/">Uy</a></li><li><a href="О/">О</a></li><li><a href="Контакты/">Контакты</a></li></ul><div class="clearfix"></div></div></div></div></div></div></div></div><div id="wb_main_a188dd98b81a00c9e8c8f6ad0daafe83" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a70ed87bbc38167681c49d" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a70f8c753c0d04141a6776" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a710b0b2f8ee87ecf740b6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h1 class="wb-stl-heading1" style="text-align: center;"><span style="color:rgba(255,255,255,1);">Энергия Флеша: Мощь, Скорость и Электричество</span></h1>
+</div><div id="a188dd98a2a7111b10dd3be4ab8006d6" class="wb_element" data-plugin="Button" style="outline: 3px solid #ff7600;overflow:visible;" ><a href="https://site.pro/uz/prices/?sbUpgradePlan=Starter&amp;sbUpgradeFeature=Tugma&amp;utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=plugin-button&amp;utm_content=kamronabrorov.free.site.pro" target="_blank" onclick="event.stopPropagation();event.returnValue=true;return true;" style="position:absolute;right:-3px;top:-3px;transform:translate(0,-100%);font: normal 14px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;z-index:1;border:1px solid #FFF;background:#ff7600;color:#FFF;padding:4px;text-decoration:none;"><i class="fa fa-star"></i>&nbsp;Ushbu plagin yangilanishni talab qiladi</a><a href="https://site.pro/uz/prices/?sbUpgradePlan=Starter&amp;sbUpgradeFeature=Tugma&amp;utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=plugin-button&amp;utm_content=kamronabrorov.free.site.pro" target="_blank" onclick="event.stopPropagation();event.returnValue=true;return true;" style="position:absolute;left:0;top:0;right:0;bottom:0;z-index:1;display:block;"></a><a class="wb_button" href="О/"><span>Узнать больше</span></a></div></div></div></div></div><div id="a188dd98a2a712f087b38dd64a00cf04" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a713a1968991cd7f07d311" class="wb_element wb-anim-entry wb-anim wb-anim-fade-in-bottom wb-layout-element" data-plugin="LayoutElement" data-wb-anim-entry-time="1" data-wb-anim-entry-delay="0"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a7145599a82108f2ff9503" class="wb_element wb_element_shape" data-plugin="Shape"><a href="Контакты/" class="wb_shp"></a></div><div id="a188dd98a2a715cab571a2c47033c998" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a7169be7e896f5a2e31e27" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3"><span style="color:rgba(0,0,0,1);">Наши Решения</span></h3>
+</div><div id="a188dd98a2a717650d5ed1d25557296b" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-normal">Здесь вы найдете последние новости о нашей компании и наших инновационных решениях в области энергетики...</p>
+</div></div></div></div></div><div id="a188dd98a2a718a56fe6cb16659a4f29" class="wb_element wb-anim-entry wb-anim wb-anim-fade-in-top wb-layout-element" data-plugin="LayoutElement" data-wb-anim-entry-time="1" data-wb-anim-entry-delay="0"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a719d3ba7c6b98df1a7245" class="wb_element wb_element_shape" data-plugin="Shape"><a href="О/" class="wb_shp"></a></div><div id="a188dd98a2a71a0eeb6c31639e44b255" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a71b2656ceaa0c2f36f411" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3"><span style="color:rgba(0,0,0,1);">О Нас</span></h3>
+</div><div id="a188dd98a2a71c976fa791a1d51463f5" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-normal">Мы предоставляем актуальную информацию о нашей компании и наших достижениях в сфере электричества и скорости...</p>
+</div></div></div></div></div><div id="a188dd98a2a71d25010b6cc85c4af25d" class="wb_element wb-anim-entry wb-anim wb-anim-fade-in-bottom wb-layout-element" data-plugin="LayoutElement" data-wb-anim-entry-time="1" data-wb-anim-entry-delay="0"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a71e505717d7b391faaca3" class="wb_element wb_element_shape" data-plugin="Shape"><a href="О/" class="wb_shp"></a></div><div id="a188dd98a2a71fa514a8b998c24ebc9c" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a720c54f2102495c9820ea" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3"><span style="color:rgba(0,0,0,1);">Специальные Ресурсы</span></h3>
+</div><div id="a188dd98a2a7219666462262cc920dc4" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p class="wb-stl-normal">Узнайте о наших последних проектах и достижениях в области энергетики и электричества...</p>
+</div></div></div></div></div></div></div><div id="a188dd98a2a7225321af043bf83621b9" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a723e82b7f13c5d03f5ad3" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h2 class="wb-stl-heading2" style="text-align: center;">Почему Выбирают Нас?</h2>
+</div><div id="a188dd98a2a724181a400c5777e0cbfc" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a72545525799386a407ae8" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a726c4b7786a00d8f380f6" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="auto" viewBox="0 0 1921.02083 1793.982" style="direction: ltr; color:#efad35"><text x="1.02083" y="1537.02" font-size="1792" fill="currentColor" style='font-family: "FontAwesome"'></text></svg></div></div></div><div id="a188dd98a2a727fb8e97f4a182f650d7" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3" style="text-align: center;">2562</h3>
+
+<p class="wb-stl-normal" style="text-align: center;">Довольные Клиенты</p>
+</div></div></div><div id="a188dd98a2a72816d4598ddc3c09c36c" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a7297660f5d2c37efdd176" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="auto" viewBox="0 0 1793.982 1793.982" style="direction: ltr; color:#efad35"><text x="1.501415" y="1537.02" font-size="1792" fill="currentColor" style='font-family: "FontAwesome"'></text></svg></div></div></div><div id="a188dd98a2a72ab5cef976293da6a902" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3" style="text-align: center;">8</h3>
+
+<p class="wb-stl-normal" style="text-align: center;">Услуги</p>
+</div></div></div><div id="a188dd98a2a72bfc05215e4d846ba59b" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a72cda85f85d319c2591d9" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="auto" viewBox="0 0 1793.982 1793.982" style="direction: ltr; color:#efad35"><text x="1.501415" y="1537.02" font-size="1792" fill="currentColor" style='font-family: "FontAwesome"'></text></svg></div></div></div><div id="a188dd98a2a72d7516b70034117ba8c5" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3" style="text-align: center;">40</h3>
+
+<p class="wb-stl-normal" style="text-align: center;">Члены Команды</p>
+</div></div></div><div id="a188dd98a2a72e20201822120f040992" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a72f70bb30c98d907a09e6" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="auto" viewBox="0 0 2305.02083 1793.982" style="direction: ltr; color:#efad35"><text x="1.02083" y="1537.02" font-size="1792" fill="currentColor" style='font-family: "FontAwesome"'></text></svg></div></div></div><div id="a188dd98a2a73065e0473aff1c3be632" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h3 class="wb-stl-heading3" style="text-align: center;">356</h3>
+
+<p class="wb-stl-normal" style="text-align: center;">Инновации Компании</p>
+</div></div></div></div></div><div id="a188dd98a2a731823b14043252c8b96a" class="wb_element" data-plugin="Button" style="outline: 3px solid #ff7600;overflow:visible;" ><a href="https://site.pro/uz/prices/?sbUpgradePlan=Starter&amp;sbUpgradeFeature=Tugma&amp;utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=plugin-button&amp;utm_content=kamronabrorov.free.site.pro" target="_blank" onclick="event.stopPropagation();event.returnValue=true;return true;" style="position:absolute;right:-3px;top:-3px;transform:translate(0,-100%);font: normal 14px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;z-index:1;border:1px solid #FFF;background:#ff7600;color:#FFF;padding:4px;text-decoration:none;"><i class="fa fa-star"></i>&nbsp;Ushbu plagin yangilanishni talab qiladi</a><a href="https://site.pro/uz/prices/?sbUpgradePlan=Starter&amp;sbUpgradeFeature=Tugma&amp;utm_source=b2c&amp;utm_medium=free&amp;utm_campaign=plugin-button&amp;utm_content=kamronabrorov.free.site.pro" target="_blank" onclick="event.stopPropagation();event.returnValue=true;return true;" style="position:absolute;left:0;top:0;right:0;bottom:0;z-index:1;display:block;"></a><a class="wb_button" href="Контакты/"><span>Связаться с Нами</span></a></div></div></div></div></div><div id="wb_footer_a188dd98b81a00c9e8c8f6ad0daafe83" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="a188dd98a2a74be7fa7a0c31eeec7580" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a74fece833f12a9a0bc30d" class="wb_element wb-prevent-layout-click" data-plugin="LinkExchangeBadge"><div class="wb-stl-footer">Men <i class="icon-wb-logo icon-wb-logo-izyro"></i><a href="https://site.pro/?utm_source=b2c&utm_medium=love&utm_content=kamronabrorov.free.site.pro" target="_blank" title="Site.pro Website builder">Site.pro</a></div></div><div id="a188dd98a2a75019fb2cebd0bb1f2082" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="a188dd98a2a751c75652c8fa9516ea29" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap" style="height: 100%"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><a href="Контакты/"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="auto" viewBox="0 0 1793.982 1793.982" style="direction: ltr; color:#efad35"><text x="129.501415" y="1537.02" font-size="1792" fill="currentColor" style='font-family: "FontAwesome"'></text></svg></a></div></div></div><div id="a188dd98a2a75218bc8b94fb4f5ce623" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap" style="height: 100%"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><a href="Контакты/"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="auto" viewBox="0 0 1793.982 1793.982" style="direction: ltr; color:#efad35"><text x="129.501415" y="1537.02" font-size="1792" fill="currentColor" style='font-family: "FontAwesome"'></text></svg></a></div></div></div><div id="a188dd98a2a753c56f980691bbfc01f8" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap" style="height: 100%"><div class="wb-picture-wrapper" style="overflow: visible; display: flex"><a href="Контакты/"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="auto" viewBox="0 0 1024 1024" style="direction: ltr; color:#efad35"><text x="64" y="960" font-size="1024" fill="currentColor" style='font-family: "builder-ui-icons-plugins"'></text></svg></a></div></div></div></div></div></div></div><div id="wb_footer_c" class="wb_element" data-plugin="WB_Footer" style="text-align: center; width: 100%;"><div class="wb_footer"></div><script type="text/javascript">
+			$(function() {
+				var footer = $(".wb_footer");
+				var html = (footer.html() + "").replace(/^\s+|\s+$/g, "");
+				if (!html) {
+					footer.parent().remove();
+					footer = $("#footer, #footer .wb_cont_inner");
+					footer.css({height: ""});
+				}
+			});
+			</script></div></div></div></div></body>
+</html>
